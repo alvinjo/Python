@@ -1,0 +1,5 @@
+touch sensor:
+	GND - ground
+	VCC - 3v
+	SIG - BCM 17
+motion sensor: OUT - BCM 17
